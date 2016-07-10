@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Problems\1TwoSums.cs" />
     <Compile Include="Problems\2AddTwoNumbers.cs" />
+    <Compile Include="Problems\3LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
