@@ -11,8 +11,12 @@ namespace Solutions
     {
         static void Main(string[] args)
         {
-            _3LongestSubstringWithoutRepeatingCharacters Prob3 = new _3LongestSubstringWithoutRepeatingCharacters();
-            Prob3.Solve();
+            //new _3LongestSubstringWithoutRepeatingCharacters().Solve();
+            //new _4MedianOfTwoSortedArrays().Solve();
+
+            new _7ReverseInteger().Solve();
+
+            //
 
 
         }
