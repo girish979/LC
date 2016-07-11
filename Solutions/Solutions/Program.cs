@@ -14,9 +14,8 @@ namespace Solutions
             //new _3LongestSubstringWithoutRepeatingCharacters().Solve();
             //new _4MedianOfTwoSortedArrays().Solve();
 
-            new _7ReverseInteger().Solve();
-
-            //
+            //new _7ReverseInteger().Solve();
+            new _8StringToInteger_atoi().Solve();
 
 
         }

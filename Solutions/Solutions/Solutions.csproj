@@ -48,6 +48,7 @@
     <Compile Include="Problems\3LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="Problems\4MedianOfTwoSortedArrays.cs" />
     <Compile Include="Problems\7ReverseInteger.cs" />
+    <Compile Include="Problems\8StringToInteger_atoi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
