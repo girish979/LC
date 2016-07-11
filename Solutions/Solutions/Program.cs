@@ -15,7 +15,8 @@ namespace Solutions
             //new _4MedianOfTwoSortedArrays().Solve();
 
             //new _7ReverseInteger().Solve();
-            new _8StringToInteger_atoi().Solve();
+            //new _8StringToInteger_atoi().Solve();
+            new _9PalindromeNumber().Solve();
 
 
         }
