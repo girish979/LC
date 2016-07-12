@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Problems\13RomanToInteger.cs" />
+    <Compile Include="Problems\14LongestCommonPrefix.cs" />
     <Compile Include="Problems\1TwoSums.cs" />
     <Compile Include="Problems\2AddTwoNumbers.cs" />
     <Compile Include="Problems\344ReverseString.cs" />
